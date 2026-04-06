@@ -11,8 +11,8 @@ Ich bin Einkäufer bei AUDI in Ingolstadt und baue nebenher an allem, was mich t
 ☁️ **FakturaCloud**
 Eigene SaaS-Plattform für Selbständige und kleine Unternehmen — Rechnungen, DHL-Versand, Buchhaltung und KI-Belegerkennung in einer App. Mit E-Rechnung (ZUGFeRD/XRechnung) und eBay-Integration.
 
-🖨️ **3D-Druck**
-Kleine Druckfarm mit Bambu Lab X1 Carbon, A1 mini & H2D. Eigene Produktdesigns, Ersatzteile und Auftragsdrucke — von Prototyp bis Serie.
+🖨️ **3D-Druck Service - Schanzer-3D**
+Kleine Druckfarm für Eigene Produktdesigns, Ersatzteile und Auftragsdrucke — von Prototyp bis Serie.
 
 🏠 **Homelab & Self-Hosting**
 Proxmox-Cluster, Home Assistant, Docker-Stacks, MikroTik-Netzwerk, Tailscale-Mesh. Ich hoste lieber selbst, wenn es geht.
