@@ -1,8 +1,6 @@
 # Hey, ich bin Jürgen 👋
 
-**Buyer @ AUDI AG** · Maker · 3D-Druck-Enthusiast · Homelab-Betreiber · SaaS-Builder
-
-Ich bin Einkäufer bei AUDI in Ingolstadt und baue nebenher an allem, was mich technisch reizt — von 3D-Druckern über Self-Hosting-Infrastruktur bis hin zu eigenen SaaS-Produkten. Ich glaube daran, Dinge selbst zu bauen, statt nur zu konsumieren.
+**Maker · 3D-Druck-Enthusiast · Homelab-Betreiber · SaaS-Builder
 
 ---
 
@@ -19,16 +17,6 @@ Proxmox-Cluster, Home Assistant, Docker-Stacks, MikroTik-Netzwerk, Tailscale-Mes
 
 🤖 **KI & Automation**
 AI-gestützte Workflows, Claude Code Infrastruktur, MCP-Integrationen und ein eigener AI-Agent-Stack.
-
----
-
-### 🌐 Meine Projekte
-
-| Projekt | Beschreibung |
-|---|---|
-| [fakturacloud.de](https://fakturacloud.de) | SaaS-Plattform — Faktura, Versand & Buchhaltung |
-| [schanzer-3d.de](https://schanzer-3d.de) | 3D-Druck-Service & eigene Designs |
-| [digitalinhalt.de](https://digitalinhalt.de) | KI-Content & Automation Studio |
 
 ---
 
@@ -52,14 +40,6 @@ AI-gestützte Workflows, Claude Code Infrastruktur, MCP-Integrationen und ein ei
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lichtenauer86&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
----
-
-### 📬 Kontakt
-
-- ☁️ [fakturacloud.de](https://fakturacloud.de)
-- 🌐 [digitalinhalt.de](https://digitalinhalt.de)
-- 🖨️ [schanzer-3d.de](https://schanzer-3d.de)
 
 ---
 
